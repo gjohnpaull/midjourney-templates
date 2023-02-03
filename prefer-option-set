@@ -3,85 +3,86 @@ prefer-option-set
 --copied from https://pastebin.com/RhGZ7B9s
 
 portrait:
-::5 Premium Portrait Photography::4 well-lit, sharp-focus, high-quality, artistic, unique, award-winning photograph, Canon EOS 5D Mark IV DSLR, f/8, ISO 100, 1/250 second, close-up, natural light, professional, flattering, headshot, glibatree style::3 black and white, grainy, deformed, watermark::-2
+::5 Premium Portrait Photography::4 well-lit, sharp-focus, high-quality, artistic, unique, award-winning photograph, Canon EOS 5D Mark IV DSLR, f/8, ISO 100, 1/250 second, close-up, natural light, professional, flattering, headshot::3 black and white, grainy, deformed, watermark::-2
  
 photo:
-::5 Artistic Photography::4 creative, expressive, unique, high-quality, Canon EOS 5D Mark IV DSLR, f/5.6 aperture, 1/125 second shutter speed, ISO 100, Adobe Photoshop, award-winning, glibatree style, experimental techniques, unusual perspectives, attention to detail::3 blurry, dim, uninspired::-2
+::5 Artistic Photography::4 creative, expressive, unique, high-quality, Canon EOS 5D Mark IV DSLR, f/5.6 aperture, 1/125 second shutter speed, ISO 100, Adobe Photoshop, award-winning, experimental techniques, unusual perspectives, attention to detail::3 blurry, dim, uninspired::-2
  
 painting:
-::5 Beautiful painting with artistic symbolism::4 brushstrokes, expressive, textured, vibrant colors, traditional medium, hand-painted, impressionistic style, high-quality canvas, limited edition, oil paint, palette knife, windsor & newton oil paints, award-winning, glibatree style::3 signature, deformed::-2
+::5 Beautiful painting with artistic symbolism::4 brushstrokes, expressive, textured, vibrant colors, traditional medium, hand-painted, impressionistic style, high-quality canvas, limited edition, oil paint, palette knife, windsor & newton oil paints, award-winning::3 signature, deformed::-2
  
 cartoon:
 ::5 Whimsical character design::4 Tags: creative, expressive, detailed, colorful, stylized anatomy, high-quality, digital art, 3D rendering, stylized, unique, award-winning, Adobe Photoshop, 3D Studio Max, V-Ray, playful, fantastical::2 plain background, simple, deformed::-2
  
 tshirt:
-::5 Professional T-Shirt Design::4 trendy, modern, memorable, vector graphics, Adobe Illustrator, professional, corporate, scalable, award-winning, glibatree style, minimalistic design, geometric shapes, bold font::3 deformed, cartoonish, cluttered design, generic font::-2
+::5 Professional T-Shirt Design::4 trendy, modern, memorable, vector graphics, Adobe Illustrator, professional, corporate, scalable, award-winning, minimalistic design, geometric shapes, bold font::3 deformed, cartoonish, cluttered design, generic font::-2
  
 ink:
-::5 Artistic Inked and Calligraphy Scene::4 creative, expressive, unique, high-quality, traditional medium, ink, brush, calligraphy, award-winning, glibatree style, experimental techniques, attention to detail, dynamic compositions::3 deformed, poor, traditional, static::-2
+::5 Artistic Inked and Calligraphy Scene::4 creative, expressive, unique, high-quality, traditional medium, ink, brush, calligraphy, award-winning, experimental techniques, attention to detail, dynamic compositions::3 deformed, poor, traditional, static::-2
  
 vector:
-::5 Beautiful Vector Art Design::4 designed in illustrator, curvilinear vector polygons, intricate detailing, 16 themed-colors, award-winning 2d design, flat design, ultra-detailed, visionary strokes, 8k premium export, glibatree style::3 signature::-2
+::5 Beautiful Vector Art Design::4 designed in illustrator, curvilinear vector polygons, intricate detailing, 16 themed-colors, award-winning 2d design, flat design, ultra-detailed, visionary strokes, 8k premium export::3 signature::-2
  
 pet:
-- adorable pet photography, cute, well-lit, sharp-focus, high-quality, artistic, unique, award-winning photograph, Canon EOS 5D Mark IV DSLR, f/8, ISO 100, 1/250 second, close-up, natural light, domestic animals, playful, fluffy, glibatree style
+- adorable pet photography, cute, well-lit, sharp-focus, high-quality, artistic, unique, award-winning photograph, Canon EOS 5D Mark IV DSLR, f/8, ISO 100, 1/250 second, close-up, natural light, domestic animals, playful, fluffy
  
 product:
-::5 Professional Product Render::4 photorealistic, 3D rendering, high-quality, detailed, accurate representation, 3D Studio Max, V-Ray, professional, corporate, award-winning, glibatree style, realistic materials, accurate dimensions, multiple angles::3 deformed, abstract, unrealistic::-2
+::5 Professional Product Render::4 photorealistic, 3D rendering, high-quality, detailed, accurate representation, 3D Studio Max, V-Ray, professional, corporate, award-winning, realistic materials, accurate dimensions, multiple angles::3 deformed, abstract, unrealistic::-2
  
 food:
-::5 Delicious Food Photography::4 well-lit, sharp-focus, high-quality, artistic, unique, award-winning photograph, Canon EOS 5D Mark IV DSLR, f/8 aperture, 1/125 second shutter speed, ISO 100, professional lighting setup, Adobe Photoshop, glibatree style, appetizing composition, attention to detail::3 dim, blurry, boring, generic, unappetizing, simple::-2 grainy, smokey::-1
+::5 Delicious Food Photography::4 well-lit, sharp-focus, high-quality, artistic, unique, award-winning photograph, Canon EOS 5D Mark IV DSLR, f/8 aperture, 1/125 second shutter speed, ISO 100, professional lighting setup, Adobe Photoshop, appetizing composition, attention to detail::3 dim, blurry, boring, generic, unappetizing, simple::-2 grainy, smokey::-1
  
 room:
-::5 Professional Real Estate Photography::4 interior, wide angle, clear, bright, high-quality, Canon EOS 5D Mark IV DSLR, Adobe Photoshop, professional, corporate, award-winning, glibatree style::3 blurry, poorly lit::-2
+::5 Professional Real Estate Photography::4 interior, wide angle, clear, bright, high-quality, Canon EOS 5D Mark IV DSLR, Adobe Photoshop, professional, corporate, award-winning ::3 blurry, poorly lit::-2
  
 character:
-::5 Character Concept Art::4 creative, expressive, detailed, colorful, stylized anatomy, digital art, 3D rendering, unique, award-winning, Adobe Photoshop, 3D Studio Max, V-Ray, professional, glibatree style, well-developed concept, distinct personality, consistent style::3 deformed, simple, undeveloped concept, generic personality, inconsistent style::-2
+::5 Character Concept Art::4 creative, expressive, detailed, colorful, stylized anatomy, digital art, 3D rendering, unique, award-winning, Adobe Photoshop, 3D Studio Max, V-Ray, professional, well-developed concept, distinct personality, consistent style::3 deformed, simple, undeveloped concept, generic personality, inconsistent style::-2
  
 landscape:
-::5 Realistic Landscape Painting::4 brushstrokes, expressive, textured, detailed, accurate representation of nature, natural tones, traditional medium, oil paint, high-quality canvas, limited edition, award-winning, glibatree style::3 signature, dull, boring, ugly, abstract::-2
+::5 Realistic Landscape Painting::4 brushstrokes, expressive, textured, detailed, accurate representation of nature, natural tones, traditional medium, oil paint, high-quality canvas, limited edition, award-winning::3 signature, dull, boring, ugly, abstract::-2
  
 surreal:
-::5 Surreal Digital Illustration::4 dreamlike, otherworldly, surrealist techniques, unique, ultra-detailed, digital art, abstract but representational, Adobe Photoshop, inspired, artistic, award-winning, glibatree style::3 photo, dull, simple, clean, modern::-2
+::5 Surreal Digital Illustration::4 dreamlike, otherworldly, surrealist techniques, unique, ultra-detailed, digital art, abstract but representational, Adobe Photoshop, inspired, artistic, award-winning::3 photo, dull, simple, clean, modern::-2
  
 abstract:
 ::5 Abstract Acrylic Painting::4 expressive brushstrokes, vibrant colors, abstract form, movement, non-representational, modern, contemporary, high-quality canvas, emotionally derived colors, limited edition, acrylic paint, palette knife, textured, award-winning, glibatree style::3 deformed, surreal::-2
  
 logo:
-::5 Professional Logo Design::6 sleek, modern, memorable, simple, scalable, vector graphics, Adobe Illustrator, professional, corporate, award-winning, glibatree style::4 badge icon, logo, on black background::3 word art, text, lettering::-4 deformed, cartoonish::-2
+::5 Professional Logo Design::6 sleek, modern, memorable, simple, scalable, vector graphics, Adobe Illustrator, professional, corporate, award-winning::4 badge icon, logo, on black background::3 word art, text, lettering::-4 deformed, cartoonish::-2
  
 macro:
-::5 Professional Macro Photography::4 detailed, extreme close-up, sharp focus, natural light, Canon EOS 5D Mark IV DSLR, f/8 aperture, 1/250 second shutter speed, ISO 100, high-quality, award-winning, glibatree style, attention to detail::3 blurry, dim, boring, generic, simple, plain, grainy::-2
+::5 Professional Macro Photography::4 detailed, extreme close-up, sharp focus, natural light, Canon EOS 5D Mark IV DSLR, f/8 aperture, 1/250 second shutter speed, ISO 100, high-quality, award-winning, attention to detail::3 blurry, dim, boring, generic, simple, plain, grainy::-2
  
 future:
-::5 Futuristic Sci-Fi 3D Render::4 high-tech, science fiction, neon lighting, intriguing, imaginitive futuristic, detailed, realistic, 3D rendering, metalic, digital art, Unreal Engine 6, 3D Studio Max, V-Ray, award-winning, glibatree style::3 deformed, abstract::-2
+::5 Futuristic Sci-Fi 3D Render::4 high-tech, science fiction, neon lighting, intriguing, imaginitive futuristic, detailed, realistic, 3D rendering, metalic, digital art, Unreal Engine 6, 3D Studio Max, V-Ray, award-winning::3 deformed, abstract::-2
  
 website:
-::5 Professional Website UI Design::4 user-friendly, modern, clean, responsive, Adobe Photoshop, professional, corporate, award-winning, glibatree style, intuitive navigation, visually appealing layout, high-quality graphics::3 deformed, outdated, cluttered layout, low-quality graphics::-2
+::5 Professional Website UI Design::4 user-friendly, modern, clean, responsive, Adobe Photoshop, professional, corporate, award-winning, intuitive navigation, visually appealing layout, high-quality graphics::3 deformed, outdated, cluttered layout, low-quality graphics::-2
  
 building:
-::5 Professional Architecture Render::4 photorealistic, 3D rendering, high-quality, detailed, accurate representation, 3D Studio Max, V-Ray, professional, corporate, award-winning, glibatree style, realistic materials, accurate dimensions, multiple angles, perspective views::3 deformed, abstract, unrealistic materials, incorrect dimensions, flat views::-2
+::5 Professional Architecture Render::4 photorealistic, 3D rendering, high-quality, detailed, accurate representation, 3D Studio Max, V-Ray, professional, corporate, award-winning, realistic materials, accurate dimensions, multiple angles, perspective views::3 deformed, abstract, unrealistic materials, incorrect dimensions, flat views::-2
  
 fabric:
-::5 Professional Fabric Weave Design::4 traditional medium, hand-embroidered, unique, trendy, modern, unique, vector graphics, Adobe Illustrator, professional, corporate, scalable, award-winning, glibatree style, realistic textures, intricate detailing, multiple colors, repeatable pattern::3 deformed, unrealistic textures, simple design, limited colors, non-repeatable pattern::-2
+::5 Professional Fabric Weave Design::4 traditional medium, hand-embroidered, unique, trendy, modern, unique, vector graphics, Adobe Illustrator, professional, corporate, scalable, award-winning, realistic textures, intricate detailing, multiple colors, repeatable pattern::3 deformed, unrealistic textures, simple design, limited colors, non-repeatable pattern::-2
  
 charcoal:
-::5 Artistic Charcoal Drawing::4 creative, expressive, detailed, textured, traditional medium, charcoal, high-quality paper, limited edition, award-winning, glibatree style, expressive lines, shaded areas, attention to detail::3 deformed, poorly executed, lack of detail, unrealistic shading::-2
+::5 Artistic Charcoal Drawing::4 creative, expressive, detailed, textured, traditional medium, charcoal, high-quality paper, limited edition, award-winning, expressive lines, shaded areas, attention to detail::3 deformed, poorly executed, lack of detail, unrealistic shading::-2
  
 emblem:
-::5 Coat of Arms Design::4 detailed, heraldic, vector graphics, Adobe Illustrator, professional, corporate, scalable, award-winning, glibatree style, accurate representations of heraldic symbols, attention to detail, consistent with heraldic rules::3 deformed, unrealistic symbols, lack of detail, inconsistent with heraldic rules::-2
+::5 Coat of Arms Design::4 detailed, heraldic, vector graphics, Adobe Illustrator, professional, corporate, scalable, award-winning, accurate representations of heraldic symbols, attention to detail, consistent with heraldic rules::3 deformed, unrealistic symbols, lack of detail, inconsistent with heraldic rules::-2
  
 thumbnail:
-::5 Bright High-Contrast Thumbnail-Face::4 expressive, emotional, eye-catching, cartoon face, realistic hair, detailed, high-contrast, high-quality, style transfer, unique, award-winning, Adobe Photoshop, glibatree style, attention to detail, dynamic compositions, accurate representation of human anatomy::3 simple, dull, low-quality, generic, poorly composed::-2
+::5 Bright High-Contrast Thumbnail-Face::4 expressive, emotional, eye-catching, cartoon face, realistic hair, detailed, high-contrast, high-quality, style transfer, unique, award-winning, Adobe Photoshop, attention to detail, dynamic compositions, accurate representation of human anatomy::3 simple, dull, low-quality, generic, poorly composed::-2
  
 microscope:
-::5 Professional Microscope Output::4 detailed, high-resolution, accurate representation, high-quality, digital art, unique, award-winning, Adobe Photoshop, glibatree style, attention to detail, accurate colors and contrast, scientific accuracy, 100x magnification, fine focus, optimal slide distance::3 low-resolution, unrealistic representation, low-quality, generic, inaccurate colors and contrast, lack of scientific accuracy, inaccurate magnification, poor focus, incorrect slide distance, lack of detail::-2
+::5 Professional Microscope Output::4 detailed, high-resolution, accurate representation, high-quality, digital art, unique, award-winning, Adobe Photoshop, attention to detail, accurate colors and contrast, scientific accuracy, 100x magnification, fine focus, optimal slide distance::3 low-resolution, unrealistic representation, low-quality, generic, inaccurate colors and contrast, lack of scientific accuracy, inaccurate magnification, poor focus, incorrect slide distance, lack of detail::-2
  
 infographic:
-::5 Professional Infographic Design::4 clear and concise information, visually appealing, high-quality, digital art, unique, award-winning, Adobe Illustrator, glibatree style, attention to detail, accurate representation of data::3 cluttered, confusing, low-quality::-2
+::5 Professional Infographic Design::4 clear and concise information, visually appealing, high-quality, digital art, unique, award-winning, Adobe Illustrator, attention to detail, accurate representation of data::3 cluttered, confusing, low-quality::-2
  
 painting2:
-::5 Professional Impressionistic Painting, swirling brushstrokes, impasto techniques::4 expressive brushstrokes, thick, visible brushstrokes, textured, vibrant colors, traditional medium, hand-painted, high-quality canvas, limited edition, oil paint, palette knife, windsor & newton oil paints, award-winning, glibatree style, attention to detail, dynamic compositions, unique subject matter::3 gold swirling masses, navy, colors, bright contrast::2 flat, dull colors, low-quality, generic, poorly composed, uninteresting subject matter, lack of detail, smooth brushstrokes, minimal texture::-2
+::5 Professional Impressionistic Painting, swirling brushstrokes, impasto techniques::4 expressive brushstrokes, thick, visible brushstrokes, textured, vibrant colors, traditional medium, hand-painted, high-quality canvas, limited edition, oil paint, palette knife, windsor & newton oil paints, award-winning, 
+attention to detail, dynamic compositions, unique subject matter::3 gold swirling masses, navy, colors, bright contrast::2 flat, dull colors, low-quality, generic, poorly composed, uninteresting subject matter, lack of detail, smooth brushstrokes, minimal texture::-2
  
 ornate:
 ::5 High Resolution Photograph with hyperornate details::4 intricate design, gold and metallic decorations, beautiful accents, Canon EOS 5D Mark IV DSLR, f/8, ISO 100, 1/250 second, rim lighting, maximum detail, flattering designs, ambitious, artistic, unknown style::3 simple, bland, grainy, dull::-2
